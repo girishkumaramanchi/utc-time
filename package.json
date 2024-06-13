@@ -1,6 +1,6 @@
 {
   "name": "utc-time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get UTC Time",
   "main": "index.js",
   "scripts": {
