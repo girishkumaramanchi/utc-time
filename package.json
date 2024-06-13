@@ -1,0 +1,26 @@
+{
+  "name": "utc-time",
+  "version": "1.0.0",
+  "description": "Get UTC Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girishkumaramanchi/utc-time.git"
+  },
+  "keywords": [
+    "UTC",
+    "Time"
+  ],
+  "author": "Girish Kumar Amanchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girishkumaramanchi/utc-time/issues"
+  },
+  "homepage": "https://github.com/girishkumaramanchi/utc-time#readme",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
